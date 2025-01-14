@@ -23,3 +23,4 @@ client lib
 for record should change key to secondary key so that i could be rototated for an account
 allow override of ip address (lets one set both ipv4 and 6 at same time)
 support TXT record (lets encrypt without public internet? not sure why, but here we are)
+do docker secret instead of env
